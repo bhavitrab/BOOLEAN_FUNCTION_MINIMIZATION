@@ -33,7 +33,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+ Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 ```
 F(A,B,C,D)=AB+CD+AD
 
@@ -50,16 +50,18 @@ assign F = (~A & B) | (C & D) | (A & ~D);
 endmodule
 ```
 
-Developed by: RegisterNumber:*/
+Developed by: BHAVITRA B
+RegisterNumber: 25012160
 
 
 **RTL realization**
+![alt text](ex02.png)
 
 **Output:**
 
 **RTL**
+![alt text](exp02.png)
 
-**Timing Diagram**
 
 **Result:**
 
